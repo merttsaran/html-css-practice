@@ -8,6 +8,15 @@
     border-radius: 2px;
     cursor: pointer;
     margin-right: 8px;
+    transition: opacity 0.15s;
+  }
+
+  .subscribe-button:hover {
+    opacity: 0.8;
+  }
+
+  .subscribe-button:active {
+    opacity: 0.4;
   }
 
  .join-button {
@@ -21,7 +30,18 @@
   border-radius: 2px;
   cursor: pointer;
   margin-right: 8px;
+  transition: background-color 0.15s,
+    color 0.15s;
  }  
+
+ .join-button:hover {
+  background-color: rgb(33, 118, 247);
+  color: white;
+ }
+ 
+ .join-button:active {
+  opacity: 0.6;
+ }
 
  .tweet-button {
   background-color: rgb(59, 150, 235);
@@ -33,6 +53,11 @@
   cursor: pointer;
   font-weight: bold;
   font-size: 14px;
+  transition: box-shadow 0.15s;
+ }
+
+ .tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
  }
 
  .request-button {
@@ -92,6 +117,51 @@
   font-weight: bold;
  }
 
+ .apply-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  border-radius: 30px;
+  height: 36px;
+  width: 200px;
+ }
+
+ .save-button {
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border-color: rgb(10, 102, 194);
+  border-radius: 30px;
+  height: 36px;
+  border-style: solid;
+  font-weight: bold;
+  width: 70px;
+  border-width: 1.5px;
+ }
+
+ .buy-now-button {
+  background-color: orange;
+  color: black;
+  border-radius: 15px;
+  border: none;
+  width: 100px;
+  height: 36px;
+ }
+
+ .amazon-link {
+  color: rgb(0, 113, 133);
+ }
+
+ .title {
+  font-weight: bold;
+  font-size: 24px;
+ }
+
+ .price {
+  color:green;
+  font-weight: bold;
+ }
+
+
 </style>
 
 <button class="subscribe-button">
@@ -128,4 +198,38 @@
   Download
 </button>
 
+<button class="apply-button">
+  Apply on company website
+</button>
+
+<button class="save-button">
+  Save
+</button>
+
+<p>
+</p>
+
+<a class="amazon-link" href="https://amazon.com">
+Back to Amazon
+</a>
+
+<p class="title">
+  Nike Black Running Shoes
+</p>
+
+<p class="price">
+  $39 - in stock.
+</p>
+
+<p>
+  Free Delivery Tomorrow.
+</p>
+
+<button class="add-to-cart-button">
+  Add to Cart
+</button>
+
+<button class="buy-now-button">
+  Buy now
+</button>
 
