@@ -11,4 +11,6 @@ This repository contains my first HTML and CSS exercises.
 - Pseudo classes
 - Transitions
 - Shadows
+- 
+
 More projects coming soon 🚀
