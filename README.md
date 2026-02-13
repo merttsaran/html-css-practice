@@ -13,6 +13,9 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Hover effects & pseudo-classes
 - CSS transitions
 - Box shadows
+- Chrome DevTools
+- CSS Box Model
+- 
 
 ## Goal
 To build a strong foundation before moving into JavaScript and more advanced front-end topics.
