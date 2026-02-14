@@ -19,6 +19,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - HTML structure and set up Live Server
 - Moving CSS into a separate file
 - Linking external CSS with `<link>`
+- Google Fonts
 - 
 
 ## Goal
