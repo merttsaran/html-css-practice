@@ -15,6 +15,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Box shadows
 - Chrome DevTools
 - CSS Box Model
+- Text Styles
 - 
 
 ## Goal
