@@ -16,6 +16,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Chrome DevTools
 - CSS Box Model
 - Text Styles
+- HTML structure and set up Live Server
 - 
 
 ## Goal
