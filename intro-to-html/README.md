@@ -20,6 +20,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Moving CSS into a separate file
 - Linking external CSS with `<link>`
 - Google Fonts
+- Images and Text Boxes
 - 
 
 ## Goal
