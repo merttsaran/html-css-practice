@@ -21,6 +21,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Linking external CSS with `<link>`
 - Google Fonts
 - Images and Text Boxes
+- CSS Display Property
 - 
 
 ## Goal
