@@ -1,8 +1,18 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <title> Youtube.com Clone</title>
     <style>
+
+      p {
+        font-family: 'Roboto', Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+      }
+
       .thumbnail {
         width: 300px;
         display: block;
@@ -13,6 +23,10 @@
 
       .video-title {
         margin-top: 0px;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 20px;
+        margin-bottom: 12px;
       }
 
       .video-preview {
@@ -34,9 +48,18 @@
       }
 
       .profile-picture {
-        width: 100%;
+        width: 40px;
+        border-radius: 50px;
       }
-      
+
+      .thumbnail-row {
+        margin-bottom: 10px;
+      }
+
+      .video-author, .video-stats  {
+        font-size: 12px;
+        color: gray;
+      }
 
     </style>
   </head>
@@ -44,7 +67,7 @@
     <input class="search-bar" type="text" placeholder="Search">
 
     <div class="video-preview">
-      <div>
+      <div class="thumbnail-row">
         <img class="thumbnail" src="thumnails/thumbnail-1.webp">
       </div>
 
@@ -67,19 +90,26 @@
      </div>
 
     <div class="video-preview">
-      
-      <img class="thumbnail" src="thumnails/thumbnail-2.webp">
+      <div class="thumbnail-row">
+        <img class="thumbnail" src="thumnails/thumbnail-2.webp">
+      </div>
 
-      <p class="video-title">
-      Try Not To Laugh Challenge #9
+      <div>
+        <div class="channel-picture">
+          <img class="profile-picture" src="/channel-pictures/channel-2.jpeg">
+        </div>
+        <div class="video-info">
+          <p class="video-title">
+          Try Not To Laugh Challenge #9
       </p>
       <p class="video-author">
-      Markiplier
+        Markiplier
       </p>
       <p class="video-stats">
-      19M views · 4 years ago
+        19M views  &#183; 4 years ago
       </p>
-    </div>
-
+       </div>
+      </div>
+     </div>
   </body>
 </html>
