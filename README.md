@@ -25,6 +25,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Div elements and basic layout structuring
 - Nested layout technique
 - CSS Grid
+- Free Space Concept
 - 
 
 ## Goal
