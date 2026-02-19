@@ -28,6 +28,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Free Space Concept
 - Flexbox
 - Nested Flexbox
+- CSS Position
 - 
 
 ## Goal
