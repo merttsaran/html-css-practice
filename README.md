@@ -26,6 +26,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Nested layout technique
 - CSS Grid
 - Free Space Concept
+- Flexbox
 - 
 
 ## Goal
