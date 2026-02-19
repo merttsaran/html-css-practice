@@ -32,3 +32,10 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 To build a strong foundation before moving into JavaScript and more advanced front-end topics.
 
 More projects coming soon 🚀
+
+## Resources
+
+This project is developed while following:
+- SuperSimpleDev – HTML & CSS Full Course (Beginner to Pro)
+
+Additional custom improvements and modifications were added.
