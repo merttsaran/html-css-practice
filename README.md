@@ -37,6 +37,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - CSS shorthand properties (padding, margin)
 - Media queries
 - Responsive design with max-width and min-width
+- CSS inheritance concept
 - 
 
 ## Goal
