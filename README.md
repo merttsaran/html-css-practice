@@ -29,6 +29,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Flexbox
 - Nested Flexbox
 - CSS Position
+- Position Absolute and Relative
 - 
 
 ## Goal
