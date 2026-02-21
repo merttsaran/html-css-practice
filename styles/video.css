@@ -1,6 +1,5 @@
       .thumbnail {
         width: 100%;
-        height: auto;
         display: block;
       }
       
@@ -25,7 +24,7 @@
       }
 
       .profile-picture {
-        width: 40px;
+        width: 38px;
         border-radius: 50px;
       }
 
