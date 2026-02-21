@@ -38,7 +38,7 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Media queries
 - Responsive design with max-width and min-width
 - CSS inheritance concept
-- 
+- Semantic HTML elements
 
 ## Goal
 To build a strong foundation before moving into JavaScript and more advanced front-end topics.
