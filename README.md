@@ -30,7 +30,10 @@ To strengthen my understanding of front-end fundamentals by building small UI co
 - Nested Flexbox
 - CSS Position
 - Position Absolute and Relative
-- 
+- Sidebar layout
+- CSS Grid responsive resizing
+- Tooltip implementation
+- Advanced hover techniques
 
 ## Goal
 To build a strong foundation before moving into JavaScript and more advanced front-end topics.
